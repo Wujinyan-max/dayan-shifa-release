@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/tag/v1.0.1",
-  "notes": "修复非最大化窗口下卦象结果显示不全的问题，并加入新版本检查提示。"
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/tag/v1.0.2",
+  "notes": "修复检查更新按钮在部分窗口和缩放环境下的位置错位问题。"
 }
