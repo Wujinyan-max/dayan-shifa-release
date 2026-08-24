@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/download/v1.0.5/Dayan-Shifa-Setup-1.0.5.exe",
-  "notes": "更新检查现在会按 Windows 和 macOS 分别选择安装包。",
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/download/v1.0.6/Dayan-Shifa-Setup-1.0.6.exe",
+  "notes": "接入邮箱意见反馈，优化程序体验。",
   "platforms": {
     "win32": {
-      "version": "1.0.5",
-      "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/download/v1.0.5/Dayan-Shifa-Setup-1.0.5.exe",
-      "notes": "更新检查现在会按 Windows 和 macOS 分别选择安装包。"
+      "version": "1.0.6",
+      "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/download/v1.0.6/Dayan-Shifa-Setup-1.0.6.exe",
+      "notes": "接入邮箱意见反馈，优化程序体验。"
     },
     "darwin": {
-      "version": "1.0.5",
-      "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/download/v1.0.5/Dayan-Shifa-Setup-1.0.5-mac.dmg",
-      "notes": "macOS 版本随 Windows 版本同步发布。"
+      "version": "1.0.6",
+      "downloadUrl": "https://github.com/Wujinyan-max/dayan-shifa-release/releases/download/v1.0.6/Dayan-Shifa-Setup-1.0.6-mac.dmg",
+      "notes": "接入邮箱意见反馈，优化程序体验。"
     }
   }
 }
